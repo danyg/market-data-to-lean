@@ -1,0 +1,7 @@
+{
+  "search.exclude": {
+    "**/.git": true,
+    "**/tmp": true,
+    "**/.venv": true
+  }
+}
